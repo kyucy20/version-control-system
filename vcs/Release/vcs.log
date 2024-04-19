@@ -1,0 +1,402 @@
+﻿  commits.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\games\mostafa\vcs\commits.cpp(26,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\games\mostafa\vcs\commits.cpp(55,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,26): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,60): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,60): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(55,26): error C3861: 'create_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(56,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(56,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(56,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(57,19): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(57,31): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(57,38): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(57,31): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(58,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(58,30): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(58,30): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,34): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,56): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,68): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,68): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\games\mostafa\vcs\commits.cpp(76,39): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,51): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2039: 'update_existing': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2065: 'update_existing': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,88): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,100): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,20): error C2737: 'copyOptions': const object must be initialized
+C:\games\mostafa\vcs\commits.cpp(77,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2146: syntax error: missing ';' before identifier 'destination'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(77,51): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,63): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,63): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,37): error C3536: 'staging_area': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(78,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,59): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,71): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,71): error C3861: 'is_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(80,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(80,49): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(80,62): error C3536: 'copyOptions': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(108,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,26): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,50): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,62): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,62): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(108,26): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(109,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(109,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(109,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(110,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(110,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(110,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(111,30): error C3536: 'next_path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(124,40): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,52): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(125,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,31): error C3536: 'copy_from': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(125,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(125,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(125,26): error C2672: 'std::copy': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4619,21): message : could be '_OutIt std::copy(_InIt,_InIt,_OutIt)'
+C:\games\mostafa\vcs\commits.cpp(125,26): message : '_OutIt std::copy(_InIt,_InIt,_OutIt)': expects 3 arguments - 2 provided
+C:\games\mostafa\vcs\commits.cpp(131,30): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(131,42): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(131,42): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(133,30): error C3536: 'readfrom': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(184,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(184,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(184,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(185,30): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(195,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(195,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(195,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(196,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(196,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(196,37): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(196,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(231,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(231,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(231,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(232,21): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(232,33): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(232,40): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(232,33): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2065: 'path': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(342,31): error C2146: syntax error: missing ';' before identifier 'commitpath'
+C:\games\mostafa\vcs\commits.cpp(342,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,31): error C3861: 'commitpath': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,1): fatal  error C1003: error count exceeds 100; stopping compilation
+  gitclasses.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\games\mostafa\vcs\commits.cpp(26,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\games\mostafa\vcs\commits.cpp(55,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,26): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,60): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,60): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(55,26): error C3861: 'create_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(56,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(56,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(56,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(57,19): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(57,31): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(57,38): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(57,31): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(58,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(58,30): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(58,30): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,34): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,56): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,68): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,68): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\games\mostafa\vcs\commits.cpp(76,39): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,51): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2039: 'update_existing': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2065: 'update_existing': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,88): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,100): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,20): error C2737: 'copyOptions': const object must be initialized
+C:\games\mostafa\vcs\commits.cpp(77,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2146: syntax error: missing ';' before identifier 'destination'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(77,51): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,63): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,63): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,37): error C3536: 'staging_area': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(78,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,59): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,71): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,71): error C3861: 'is_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(80,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(80,49): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(80,62): error C3536: 'copyOptions': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(108,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,26): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,50): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,62): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,62): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(108,26): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(109,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(109,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(109,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(110,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(110,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(110,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(111,30): error C3536: 'next_path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(124,40): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,52): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(125,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,31): error C3536: 'copy_from': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(125,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(125,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(125,26): error C2672: 'std::copy': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4619,21): message : could be '_OutIt std::copy(_InIt,_InIt,_OutIt)'
+C:\games\mostafa\vcs\commits.cpp(125,26): message : '_OutIt std::copy(_InIt,_InIt,_OutIt)': expects 3 arguments - 2 provided
+C:\games\mostafa\vcs\commits.cpp(131,30): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(131,42): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(131,42): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(133,30): error C3536: 'readfrom': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(184,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(184,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(184,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(185,30): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(195,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(195,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(195,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(196,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(196,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(196,37): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(196,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(231,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(231,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(231,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(232,21): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(232,33): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(232,40): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(232,33): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2065: 'path': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(342,31): error C2146: syntax error: missing ';' before identifier 'commitpath'
+C:\games\mostafa\vcs\commits.cpp(342,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,31): error C3861: 'commitpath': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,1): fatal  error C1003: error count exceeds 100; stopping compilation
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\games\mostafa\vcs\commits.cpp(26,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\games\mostafa\vcs\commits.cpp(55,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,26): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(55,60): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(55,60): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(55,26): error C3861: 'create_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(56,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(56,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(56,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(57,19): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(57,31): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(57,38): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(57,31): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(58,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(58,30): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(58,30): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,34): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,56): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(75,68): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(75,68): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(75,46): error C2064: term does not evaluate to a function taking 1 arguments
+C:\games\mostafa\vcs\commits.cpp(76,39): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,51): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2039: 'update_existing': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,65): error C2065: 'update_existing': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,88): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,100): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(76,114): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(76,20): error C2737: 'copyOptions': const object must be initialized
+C:\games\mostafa\vcs\commits.cpp(77,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2146: syntax error: missing ';' before identifier 'destination'
+C:\games\mostafa\vcs\commits.cpp(77,31): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(77,51): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(77,63): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(77,63): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,37): error C3536: 'staging_area': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(78,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(78,59): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(78,71): error C2039: 'is_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(78,71): error C3861: 'is_directory': identifier not found
+C:\games\mostafa\vcs\commits.cpp(80,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(80,49): error C2065: 'destination': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(80,62): error C3536: 'copyOptions': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(108,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,26): error C2039: 'create_directories': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,50): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(108,62): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(108,62): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(108,26): error C3861: 'create_directories': identifier not found
+C:\games\mostafa\vcs\commits.cpp(109,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(109,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(109,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(110,31): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(110,43): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(110,43): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(111,30): error C3536: 'next_path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(124,40): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,52): error C3083: 'copy_options': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2039: 'recursive': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(124,66): error C2065: 'recursive': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(125,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,31): error C3536: 'copy_from': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(125,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(125,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(125,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(125,26): error C2672: 'std::copy': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4619,21): message : could be '_OutIt std::copy(_InIt,_InIt,_OutIt)'
+C:\games\mostafa\vcs\commits.cpp(125,26): message : '_OutIt std::copy(_InIt,_InIt,_OutIt)': expects 3 arguments - 2 provided
+C:\games\mostafa\vcs\commits.cpp(131,30): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(131,42): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(131,42): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(133,30): error C3536: 'readfrom': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(184,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(184,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(184,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(185,30): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(195,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(195,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(195,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(196,18): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(196,30): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(196,37): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(196,30): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(231,26): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(231,38): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(231,38): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(232,21): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(232,33): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(232,40): error C3536: 'path': cannot be used before it is initialized
+C:\games\mostafa\vcs\commits.cpp(232,33): error C3861: 'exists': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,26): error C2065: 'path': undeclared identifier
+C:\games\mostafa\vcs\commits.cpp(342,31): error C2146: syntax error: missing ';' before identifier 'commitpath'
+C:\games\mostafa\vcs\commits.cpp(342,47): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\games\mostafa\vcs\commits.cpp(342,59): error C2039: 'current_path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vector(26,1): message : see declaration of 'std'
+C:\games\mostafa\vcs\commits.cpp(342,59): error C3861: 'current_path': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,31): error C3861: 'commitpath': identifier not found
+C:\games\mostafa\vcs\commits.cpp(342,1): fatal  error C1003: error count exceeds 100; stopping compilation
